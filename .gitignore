@@ -1,0 +1,28 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# C++ ide/editor files
+*.user
+*.log
+
+# Ignore compiled test/execution results
+*.class
+
+# Keep any temporary/editor swap files out
+*~
+*.swp
